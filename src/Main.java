@@ -15,7 +15,8 @@ public class Main {
         list.add("mayank");
         list.add("irfan");
         list.add("jai");
-
+        list.add("jai");
+        list.add("jai");
         list.forEach(
                 (n)->System.out.println(n+2)
         );
